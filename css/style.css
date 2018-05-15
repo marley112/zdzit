@@ -1,0 +1,194 @@
+body {
+  font-family: 'Open Sans', sans-serif; }
+
+a {
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  color: #000000; }
+
+a:hover {
+  text-decoration: none;
+  color: #96bf37; }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+.main-title {
+  margin: 25px 0; }
+
+.breadcrumbs {
+  font-size: 1.5rem;
+  margin-bottom: 25px; }
+  .breadcrumbs span {
+    cursor: pointer; }
+    .breadcrumbs span:hover {
+      opacity: 0.7; }
+
+.buttons-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+  .buttons-list li {
+    width: 48%;
+    background-color: #96bf37;
+    color: #ffffff;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    border-bottom: 5px solid #7e9940;
+    -webkit-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+    transition: 0.2s all ease; }
+    .buttons-list li:hover {
+      opacity: 0.8; }
+    .buttons-list li:active {
+      -webkit-transform: translate(0px, 5px);
+          -ms-transform: translate(0px, 5px);
+              transform: translate(0px, 5px);
+      border-bottom: 1px solid; }
+    .buttons-list li a {
+      color: #ffffff;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      height: 100%;
+      padding: 15px;
+      font-size: 1.5rem; }
+
+.buttons-list-col-6 {
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
+  .buttons-list-col-6 li {
+    width: 23%; }
+
+.stops-list {
+  font-size: 14px; }
+
+.timetable {
+  padding: 25px 0 0 0;
+  font-size: 14px;
+  width: 49%;
+  float: left; }
+  .timetable:nth-of-type(2n + 1) {
+    clear: both;
+    margin-right: 1%; }
+  .timetable:nth-child(2n) {
+    margin-left: 1%; }
+
+.table-1 thead th,
+.table-1 tbody td {
+  padding: 0.3em !important;
+  text-align: center; }
+
+.timeline-stops {
+  margin: 30px auto;
+  font-size: 0.875rem;
+  width: 50%; }
+
+.timeline-stop {
+  text-align: center;
+  width: 50%;
+  clear: both;
+  position: relative;
+  padding: 10px; }
+  .timeline-stop p {
+    margin: 0;
+    padding: 0; }
+  .timeline-stop .stop-circle {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #96bf37;
+    border-radius: 50%;
+    background-color: #ffffff;
+    position: absolute;
+    right: -10px;
+    z-index: 10;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%); }
+  .timeline-stop .stop-time {
+    display: block;
+    width: 16px;
+    height: 16px;
+    top: 100%;
+    position: absolute;
+    right: 10px;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+    text-align: center; }
+
+.timeline-stop:nth-child(n) {
+  border-right: 5px solid #000000; }
+
+.timeline-stop:nth-child(2n) {
+  float: right;
+  border-left: 5px solid #000000;
+  border-right: none;
+  position: relative;
+  left: -5px; }
+  .timeline-stop:nth-child(2n) .stop-circle {
+    left: -10px; }
+  .timeline-stop:nth-child(2n) .stop-time {
+    left: 10px; }
+
+.timeline-stop:hover .stop-circle {
+  background-color: #96bf37; }
+
+.bus-icon {
+  margin-top: 15px; }
+
+@media screen and (max-width: 991px) {
+  .variants-list li a {
+    font-size: 1.25rem; }
+  .timetable {
+    width: 100%;
+    float: none; }
+    .timetable:nth-of-type(2n + 1) {
+      clear: none;
+      margin-right: 0; }
+    .timetable:nth-child(2n) {
+      margin-left: 0%; }
+  .buttons-list-col-6 li {
+    width: 48%; } }
+
+@media screen and (max-width: 767px) {
+  .variants-list li {
+    width: 100%; }
+    .variants-list li a {
+      font-size: 1rem; }
+  .timetable .table-1 th,
+  .timetable .table-1 td {
+    font-size: 0.75rem !important; } }
+
+@media screen and (max-width: 575px) {
+  .variants-list li {
+    width: 100%; }
+    .variants-list li a {
+      font-size: 0.875rem; }
+  .timetable .table-1 th,
+  .timetable .table-1 td {
+    font-size: 0.625rem !important; }
+  .buttons-list-col-6 li {
+    width: 100%; } }

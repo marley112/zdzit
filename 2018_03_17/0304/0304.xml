@@ -1,0 +1,2953 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="304" typ="Linia okresowa" wazny_od="01.04.2018" wazny_do="31.10.2018">
+  <wariant id="1" nazwa="Dworzec Główny - Wójtowo-Leszczynowa" tam="1" powrot="0" obj="TO-WOL">
+   <przystanek id="73(11)" nazwa="Dworzec Główny" ulica="Dworcowa" cechy="">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="74(04)" nazwa="Dworzec Główny" ulica="pl. Konstytucji 3 Maja" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="92(12)" nazwa="Dworzec Główny" ulica="Dworcowa" cechy="">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="412(01)" nazwa="Olsztyńskie Zakłady Graficzne" ulica="Towarowa" cechy="">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="190(01)" nazwa="Składowa" ulica="Towarowa" cechy="">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="04" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="04" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="191(01)" nazwa="Obi" ulica="Towarowa" cechy="">
+    <tabliczka id="6" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="192(01)" nazwa="Wojewódzki Ośrodek Ruchu Drogowego" ulica="Towarowa" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="193(01)" nazwa="Towarowa-Budowlana" ulica="Towarowa" cechy="">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="273(03)" nazwa="Cementowa" ulica="Lubelska" cechy="">
+    <tabliczka id="9" mc="3" cechy="nz">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="274(01)" nazwa="Tor motocrossowy" ulica="Lubelska" cechy="">
+    <tabliczka id="10" mc="0" cechy="nz">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="840(01)" nazwa="Wójtowa Rola-Ogrody I" ulica="Wójtowa Rola" cechy="">
+    <tabliczka id="11" mc="3">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="13" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="844(01)" nazwa="Wójtowo-Leszczynowa" ulica="Wójtowo" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Wójtowo-Leszczynowa - Dworzec Główny" tam="0" powrot="1" obj="TO-DWG">
+   <przystanek id="845(02)" nazwa="Wójtowo-Leszczynowa" ulica="Wójtowo" cechy="">
+    <tabliczka id="12" mc="0">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="20" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="20" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="20" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="847(02)" nazwa="Wójtowo" ulica="Wójtowo" cechy="">
+    <tabliczka id="13" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="21" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="21" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="21" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="841(02)" nazwa="Wójtowa Rola-Ogrody I" ulica="Wójtowa Rola" cechy="">
+    <tabliczka id="14" mc="4">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="282(02)" nazwa="Tor motocrossowy" ulica="Lubelska" cechy="">
+    <tabliczka id="15" mc="3" cechy="nz">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="28" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="28" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="28" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="283(04)" nazwa="Cementowa" ulica="Cementowa" cechy="">
+    <tabliczka id="16" mc="1" cechy="nz">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="29" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="29" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="29" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="180(02)" nazwa="Towarowa-Budowlana" ulica="Towarowa" cechy="">
+    <tabliczka id="17" mc="4">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="32" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="32" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="32" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="257(02)" nazwa="Wojewódzki Ośrodek Ruchu Drogowego" ulica="Towarowa" cechy="">
+    <tabliczka id="18" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="33" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="33" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="33" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="181(02)" nazwa="Obi" ulica="Towarowa" cechy="">
+    <tabliczka id="19" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="34" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="34" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="34" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="182(02)" nazwa="Składowa" ulica="Towarowa" cechy="">
+    <tabliczka id="20" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="520(02)" nazwa="Olsztyńskie Zakłady Graficzne" ulica="Towarowa" cechy="">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="8">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="8">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Soboty / Saturdays">
+      <godz h="7">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Niedziele i święta / Sundays and public holidays">
+      <godz h="7">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37" ozn="A" przyp="A - kurs realizowany w dniach 01.05-30.09.2016 r.">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37" ozn="B" przyp="B - kurs realziowany w dniach 01.07-31.08.2016 r.">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="200(05)" nazwa="Dworzec Główny" ulica="Dworcowa" cechy="">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

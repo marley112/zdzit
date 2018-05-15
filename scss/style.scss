@@ -1,0 +1,234 @@
+@import 'colors';
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    transition: 0.5s;
+    color: $black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: $green;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.main-title {
+    margin: 25px 0;
+}
+
+.breadcrumbs {
+    font-size: 1.5rem;
+    span {
+        cursor: pointer;
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+    margin-bottom: 25px;
+}
+
+.buttons-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    li {
+        width: 48%;
+        background-color: $green;
+        color: $white;
+        height: 200px;
+        overflow: hidden;
+        border-radius: 10px;
+        margin-bottom: 50px;
+        border-bottom: 5px solid #7e9940;
+        transition: 0.2s all ease;
+        &:hover {
+            opacity: 0.8;
+        }
+        &:active {
+            transform: translate(0px, 5px);
+            border-bottom: 1px solid;
+        }
+        a {
+            color: $white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            padding: 15px;
+            font-size: 1.5rem;
+        }
+    }
+}
+
+.buttons-list-col-6 {
+    justify-content: space-around;
+    li {
+        width: 23%;
+    }
+}
+
+.stops-list {
+    font-size: 14px;
+}
+
+.timetable {
+    padding: 25px 0 0 0;
+    font-size: 14px;
+    width: 49%;
+    float: left;
+    &:nth-of-type(2n + 1) {
+        clear: both;
+        margin-right: 1%;
+    }
+    &:nth-child(2n) {
+        margin-left: 1%;
+    }
+}
+
+.table-1 thead th,
+.table-1 tbody td {
+    padding: 0.3em !important;
+    text-align: center;
+}
+
+.timeline-stops {
+    margin: 30px auto;
+    font-size: 0.875rem;
+    width: 50%;
+}
+
+.timeline-stop {
+    text-align: center;
+    width: 50%;
+    clear: both;
+    position: relative;
+    padding: 10px;
+    p {
+        margin: 0;
+        padding: 0;
+    }
+    .stop-circle {
+        display: block;
+        width: 16px;
+        height: 16px;
+        border: 2px solid $green;
+        border-radius: 50%;
+        background-color: $white;
+        position: absolute;
+        right: -10px;
+        z-index: 10;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .stop-time {
+        display: block;
+        width: 16px;
+        height: 16px;
+        top: 100%;
+        position: absolute;
+        right: 10px;
+        transform: translateY(-50%);
+        text-align: center;
+    }
+}
+
+.timeline-stop:nth-child(n) {
+    border-right: 5px solid #000000;
+}
+
+.timeline-stop:nth-child(2n) {
+    float: right;
+    border-left: 5px solid #000000;
+    border-right: none;
+    position: relative;
+    left: -5px;
+    .stop-circle {
+        left: -10px;
+    }
+    .stop-time {
+        left: 10px;
+    }
+}
+
+.timeline-stop {
+    &:hover {
+        .stop-circle {
+            background-color: $green;
+        }
+    }
+
+}
+
+.bus-icon {
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 991px) {
+    .variants-list {
+        li {
+            a {
+                font-size: 1.25rem;
+            }
+        }
+    }
+    .timetable {
+        width: 100%;
+        float: none;
+        &:nth-of-type(2n + 1) {
+            clear: none;
+            margin-right: 0;
+        }
+        &:nth-child(2n) {
+            margin-left: 0%;
+        }
+    }
+    .buttons-list-col-6 {
+        li {
+            width: 48%;
+        }
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .variants-list {
+        li {
+            width: 100%;
+            a {
+                font-size: 1rem;
+            }
+        }
+    }
+    .timetable .table-1 th,
+    .timetable .table-1 td {
+        font-size: 0.75rem !important;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .variants-list {
+        li {
+            width: 100%;
+            a {
+                font-size: 0.875rem;
+            }
+        }
+    }
+    .timetable .table-1 th,
+    .timetable .table-1 td {
+        font-size: 0.625rem !important;
+    }
+    .buttons-list-col-6 {
+        li {
+            width: 100%;
+        }
+    }
+}

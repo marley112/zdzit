@@ -1,0 +1,5173 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="309" typ="Linia okresowa" wazny_od="10.02.2018" wazny_do="">
+  <wariant id="1" nazwa="Jakubowo - Stary Dwór" tam="1" powrot="0" obj="TO-STD">
+   <przystanek id="514(02)" nazwa="Jakubowo" ulica="Parkowa" cechy="">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="172(04)" nazwa="Szpital MSWiA" ulica="Sybiraków" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="173(02)" nazwa="Stacja Krwiodawstwa" ulica="Sybiraków" cechy="">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="16(02)" nazwa="Limanowskiego" ulica="Limanowskiego" cechy="">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="748(52)" nazwa="Plac Bema" ulica="Kopernika" cechy="">
+    <tabliczka id="5" mc="3">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="205(01)" nazwa="Plac Pułaskiego" ulica="pl. Pułaskiego" cechy="">
+    <tabliczka id="6" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="18(02)" nazwa="Mickiewicza" ulica="Kopernika" cechy="">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="934(01)" nazwa="Centrum" ulica="Piłsudskiego" cechy="">
+    <tabliczka id="8" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="40(01)" nazwa="Wysoka Brama" ulica="pl. Jedności Słowiańskiej" cechy="">
+    <tabliczka id="9" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="04" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="25(03)" nazwa="Plac Roosevelta" ulica="Śliwy" cechy="">
+    <tabliczka id="10" mc="3">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="4(01)" nazwa="Osiedle Podgrodzie" ulica="Warszawska" cechy="">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="27(01)" nazwa="Armii Krajowej" ulica="Warszawska" cechy="">
+    <tabliczka id="12" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="137(01)" nazwa="Uniwersytet-Rektorat" ulica="Warszawska" cechy="">
+    <tabliczka id="13" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="580(03)" nazwa="Uniwersytet-Prawocheńskiego" ulica="Warszawska" cechy="">
+    <tabliczka id="14" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="42" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="138(01)" nazwa="Uniwersytet-Stadion" ulica="Warszawska" cechy="">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="43" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="139(01)" nazwa="Uniwersytet-Centrum Konferencyjne" ulica="Dybowskiego" cechy="">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="44" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="140(01)" nazwa="Uniwersytet-Świetlista" ulica="Dybowskiego" cechy="">
+    <tabliczka id="17" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="8(01)" nazwa="Uniwersytet-Słoneczna" ulica="Dybowskiego" cechy="">
+    <tabliczka id="18" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="134(01)" nazwa="Stary Dwór" ulica="Słoneczna" cechy="">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Stary Dwór - Jakubowo" tam="0" powrot="1" obj="TO-JAK">
+   <przystanek id="570(02)" nazwa="Stary Dwór" ulica="Słoneczna" cechy="">
+    <tabliczka id="19" mc="0">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+       <min m="54" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09" ozn="" przyp="">
+       </min>
+       <min m="24" ozn="" przyp="">
+       </min>
+       <min m="39" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="141(02)" nazwa="Uniwersytet-Słoneczna" ulica="Dybowskiego" cechy="">
+    <tabliczka id="20" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+       <min m="56" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11" ozn="" przyp="">
+       </min>
+       <min m="26" ozn="" przyp="">
+       </min>
+       <min m="41" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="142(02)" nazwa="Uniwersytet-Centrum Konferencyjne" ulica="Dybowskiego" cechy="">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="143(02)" nazwa="Uniwersytet-Stadion" ulica="Warszawska" cechy="">
+    <tabliczka id="22" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="582(04)" nazwa="Uniwersytet-Prawocheńskiego" ulica="Warszawska" cechy="">
+    <tabliczka id="23" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01" ozn="" przyp="">
+       </min>
+       <min m="16" ozn="" przyp="">
+       </min>
+       <min m="31" ozn="" przyp="">
+       </min>
+       <min m="46" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="583(02)" nazwa="Uniwersytet-Rektorat" ulica="Warszawska" cechy="">
+    <tabliczka id="24" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="7">
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02" ozn="" przyp="">
+       </min>
+       <min m="17" ozn="" przyp="">
+       </min>
+       <min m="32" ozn="" przyp="">
+       </min>
+       <min m="47" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="1(02)" nazwa="Armii Krajowej" ulica="Warszawska" cechy="">
+    <tabliczka id="25" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="04" ozn="" przyp="">
+       </min>
+       <min m="19" ozn="" przyp="">
+       </min>
+       <min m="34" ozn="" przyp="">
+       </min>
+       <min m="49" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="2(02)" nazwa="Osiedle Podgrodzie" ulica="Warszawska" cechy="">
+    <tabliczka id="26" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="31(02)" nazwa="Plac Roosevelta" ulica="Szrajbera" cechy="">
+    <tabliczka id="27" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="248(02)" nazwa="Św. Wojciecha" ulica="Pieniężnego" cechy="">
+    <tabliczka id="28" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="936(02)" nazwa="Centrum" ulica="Piłsudskiego" cechy="">
+    <tabliczka id="29" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10" ozn="" przyp="">
+       </min>
+       <min m="25" ozn="" przyp="">
+       </min>
+       <min m="40" ozn="" przyp="">
+       </min>
+       <min m="55" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="7(01)" nazwa="Mickiewicza" ulica="Kopernika" cechy="">
+    <tabliczka id="30" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12" ozn="" przyp="">
+       </min>
+       <min m="27" ozn="" przyp="">
+       </min>
+       <min m="42" ozn="" przyp="">
+       </min>
+       <min m="57" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="515(02)" nazwa="Plac Pułaskiego" ulica="pl. Pułaskiego" cechy="">
+    <tabliczka id="31" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="13" ozn="" przyp="">
+       </min>
+       <min m="28" ozn="" przyp="">
+       </min>
+       <min m="43" ozn="" przyp="">
+       </min>
+       <min m="58" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="912(02)" nazwa="Kętrzyńskiego" ulica="Kościuszki" cechy="">
+    <tabliczka id="32" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="15" ozn="" przyp="">
+       </min>
+       <min m="30" ozn="" przyp="">
+       </min>
+       <min m="45" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00" ozn="" przyp="">
+       </min>
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="" przyp="">
+       </min>
+       <min m="29" ozn="" przyp="">
+       </min>
+       <min m="44" ozn="" przyp="">
+       </min>
+       <min m="59" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="9(01)" nazwa="Limanowskiego" ulica="Limanowskiego" cechy="">
+    <tabliczka id="33" mc="5">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03" ozn="" przyp="">
+       </min>
+       <min m="18" ozn="" przyp="">
+       </min>
+       <min m="33" ozn="" przyp="">
+       </min>
+       <min m="48" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="170(01)" nazwa="Stacja Krwiodawstwa" ulica="Sybiraków" cechy="">
+    <tabliczka id="34" mc="2">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="22" ozn="" przyp="">
+       </min>
+       <min m="37" ozn="" przyp="">
+       </min>
+       <min m="52" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05" ozn="" przyp="">
+       </min>
+       <min m="20" ozn="" przyp="">
+       </min>
+       <min m="35" ozn="" przyp="">
+       </min>
+       <min m="50" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="05" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="171(03)" nazwa="Szpital MSWiA" ulica="Sybiraków" cechy="">
+    <tabliczka id="35" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="6">
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="23" ozn="" przyp="">
+       </min>
+       <min m="38" ozn="" przyp="">
+       </min>
+       <min m="53" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06" ozn="" przyp="">
+       </min>
+       <min m="21" ozn="" przyp="">
+       </min>
+       <min m="36" ozn="" przyp="">
+       </min>
+       <min m="51" ozn="" przyp="">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06" ozn="" przyp="">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="390(01)" nazwa="Jakubowo" ulica="Wojska Polskiego" cechy="">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

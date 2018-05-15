@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="201" typ="Linia dowozowa" wazny_od="01.03.2016" wazny_do="">
+  <wariant id="1" nazwa="Kutrzeby - Sikorskiego-Wilczyńskiego" tam="1" powrot="0" obj="TP-SIW">
+   <przystanek id="94(01)" nazwa="Kutrzeby" ulica="Kutrzeby" cechy="">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="5">
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="22">
+       </min>
+       <min m="30">
+       </min>
+       <min m="37">
+       </min>
+       <min m="41">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="07">
+       </min>
+       <min m="15">
+       </min>
+       <min m="22">
+       </min>
+       <min m="30">
+       </min>
+       <min m="38">
+       </min>
+       <min m="45">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="5">
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="19">
+       </min>
+       <min m="28">
+       </min>
+       <min m="36">
+       </min>
+       <min m="43">
+       </min>
+       <min m="51">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="13">
+       </min>
+       <min m="21">
+       </min>
+       <min m="28">
+       </min>
+       <min m="43">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="260(01)" nazwa="Kleeberga" ulica="Kleeberga" cechy="">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="5">
+       <min m="20">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="10">
+       </min>
+       <min m="23">
+       </min>
+       <min m="31">
+       </min>
+       <min m="38">
+       </min>
+       <min m="42">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01">
+       </min>
+       <min m="08">
+       </min>
+       <min m="16">
+       </min>
+       <min m="23">
+       </min>
+       <min m="31">
+       </min>
+       <min m="39">
+       </min>
+       <min m="46">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="5">
+       <min m="20">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="10">
+       </min>
+       <min m="20">
+       </min>
+       <min m="29">
+       </min>
+       <min m="37">
+       </min>
+       <min m="44">
+       </min>
+       <min m="52">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="14">
+       </min>
+       <min m="22">
+       </min>
+       <min m="29">
+       </min>
+       <min m="44">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="97(01)" nazwa="Hallera" ulica="Hallera" cechy="">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="5">
+       <min m="21">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="01">
+       </min>
+       <min m="11">
+       </min>
+       <min m="24">
+       </min>
+       <min m="32">
+       </min>
+       <min m="39">
+       </min>
+       <min m="43">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="09">
+       </min>
+       <min m="17">
+       </min>
+       <min m="24">
+       </min>
+       <min m="32">
+       </min>
+       <min m="40">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+       <min m="15">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="5">
+       <min m="21">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="01">
+       </min>
+       <min m="11">
+       </min>
+       <min m="21">
+       </min>
+       <min m="30">
+       </min>
+       <min m="38">
+       </min>
+       <min m="45">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="08">
+       </min>
+       <min m="15">
+       </min>
+       <min m="23">
+       </min>
+       <min m="30">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+       <min m="15">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="411(02)" nazwa="Osiedle Generałów" ulica="Wilczyńskiego" cechy="">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="Dni robocze (od poniedziałku do piątku) / Working days">
+      <godz h="5">
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="02">
+       </min>
+       <min m="12">
+       </min>
+       <min m="25">
+       </min>
+       <min m="33">
+       </min>
+       <min m="40">
+       </min>
+       <min m="44">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="10">
+       </min>
+       <min m="18">
+       </min>
+       <min m="25">
+       </min>
+       <min m="33">
+       </min>
+       <min m="41">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="16">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="Dni robocze wolne od nauki szkolnej * / Out of school working days *">
+      <godz h="5">
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="02">
+       </min>
+       <min m="12">
+       </min>
+       <min m="22">
+       </min>
+       <min m="31">
+       </min>
+       <min m="39">
+       </min>
+       <min m="46">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01">
+       </min>
+       <min m="09">
+       </min>
+       <min m="16">
+       </min>
+       <min m="24">
+       </min>
+       <min m="31">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="16">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="250(06)" nazwa="Sikorskiego-Wilczyńskiego" ulica="Płoskiego" cechy="">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>
